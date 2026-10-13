@@ -1,0 +1,9 @@
+id = "agent-nexus-mcp"
+name = "Agent Nexus MCP"
+description = "Live-verified registry of 690+ APIs, MCP servers and CLIs for AI agents, inside Zed's Agent Panel."
+version = "0.1.0"
+schema_version = 1
+authors = ["Agent Nexus <hello@agentnexus.app>"]
+repository = "https://github.com/Strategiumfinancepartner/agent-nexus-zed"
+
+[context_servers.agent-nexus]
